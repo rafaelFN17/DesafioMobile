@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DesafioAndroidJava</string>
+    <string name="stringMenu">Opções de Calculo</string>
+    <string name="stringTabuada">Tabuada</string>
+    <string name="stringQuadradoCubo">Quadrado e Cubo</string>
+    <string name="stringDistancia">Distância Entre Dois Pontos</string>
+    <string name="CalculadorQuadradoCubo">Calculador de Quadrado e Cubo</string>
+    <string name="Numero">Numero:</string>
+    <string name="calcular">Calcular</string>
+    <string name="CalculadorDistancia">Calculador de Distância Entre Dois Pontos</string>
+    <string name="CoordenadasA">Coordenadas do Ponto A</string>
+    <string name="CoordenadaX1">X:</string>
+    <string name="CoordenadaY">Y:</string>
+    <string name="hintCoordenada">5.1</string>
+    <string name="CalcularDistancia">Calcular Distância</string>
+    <string name="ResultadoDistancia" />
+    <string name="CoordenadasPontoB">Coordenadas do Ponto B</string>
+    <string name="CalculadorTabuada">Calculador de Tabuada</string>
+    <string name="hintTabuada">0 - 10</string>
+    <string name="CalcularTabuada">Calcular Tabuada</string>
+    <string name="ResultadoTabuada" />
+    <string name="ResultadoTabu">Resultado da Tabuada do numero _:</string>
+    <string name="ValorInserir">0 - 10</string>
+    <string name="InserirDecimal">2.6</string>
+</resources>
